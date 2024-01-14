@@ -1,0 +1,14 @@
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\bin\Debug\net6.0\WEMBLEY.App.Core.deps.json
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\bin\Debug\net6.0\WEMBLEY.App.Core.dll
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\bin\Debug\net6.0\WEMBLEY.App.Core.pdb
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.csproj.AssemblyReference.cache
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.AssemblyInfoInputs.cache
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.AssemblyInfo.cs
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.csproj.CoreCompileInputs.cache
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.csproj.Fody.CopyLocal.cache
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.csproj.Fody.RuntimeCopyLocal.cache
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.dll
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\refint\WEMBLEY.App.Core.dll
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\WEMBLEY.App.Core.pdb
+D:\Project\WPF_App\WEMBLEY.App\WEMBLEY.App.Core\obj\Debug\net6.0\ref\WEMBLEY.App.Core.dll
